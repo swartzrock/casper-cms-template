@@ -2,6 +2,8 @@
 <!-- Markdown snippet -->
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/casper-cms-template)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/430914f2-1ced-45de-aa95-13ac566e78d6/deploy-status)](https://app.netlify.com/sites/infallible-beaver-1e8067/deploys)
+
 ![casper theme image](https://s3-us-west-1.amazonaws.com/publis-brian-images/casper.jpg)
 
 **A [Hugo](http://gohugo.io/) boilerplate for creating truly epic websites**
